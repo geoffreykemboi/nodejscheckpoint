@@ -1,0 +1,1 @@
+console.log("Hello World");   //JavaScript program that prints "Hello World" to the console.
